@@ -1,0 +1,7 @@
+[
+  "scripts/test_seting.py::TestSms::()::test_click_search_btn",
+  "scripts/test_seting.py::TestSms::()::test_input_number_search[1]",
+  "scripts/test_seting.py::TestSms::()::test_input_number_search[2]",
+  "scripts/test_seting.py::TestSms::()::test_input_number_search[3]",
+  "scripts/test_seting.py::TestSms::()::test_click_back_butn"
+]

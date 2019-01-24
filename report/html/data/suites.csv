@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_seting.TestSms.test_click_search_btn","11623",""
+"passed","scripts.test_seting.TestSms.test_input_number_search[3]","10321",""
+"passed","scripts.test_seting.TestSms.test_input_number_search[2]","7365",""
+"passed","scripts.test_seting.TestSms.test_click_back_butn","1259",""
+"passed","scripts.test_seting.TestSms.test_input_number_search[1]","9763",""

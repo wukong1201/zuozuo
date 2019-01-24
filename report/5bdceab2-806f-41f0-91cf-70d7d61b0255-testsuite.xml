@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1548314112598" stop="1548314152941">
+  <name>scripts.test_seting</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1548314112598" status="passed" stop="1548314124221">
+      <name>TestSms.test_click_search_btn</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3180-MainThread"/>
+        <label name="host" value="SFTK-20181010UP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548314124223" status="passed" stop="1548314133986">
+      <name>TestSms.test_input_number_search[1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3180-MainThread"/>
+        <label name="host" value="SFTK-20181010UP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548314133988" status="passed" stop="1548314141353">
+      <name>TestSms.test_input_number_search[2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3180-MainThread"/>
+        <label name="host" value="SFTK-20181010UP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548314141358" status="passed" stop="1548314151679">
+      <name>TestSms.test_input_number_search[3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3180-MainThread"/>
+        <label name="host" value="SFTK-20181010UP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548314151682" status="passed" stop="1548314152941">
+      <name>TestSms.test_click_back_butn</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3180-MainThread"/>
+        <label name="host" value="SFTK-20181010UP"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

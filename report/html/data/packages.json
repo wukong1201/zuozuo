@@ -1,0 +1,69 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_seting",
+    "children" : [ {
+      "name" : "TestSms.test_click_search_btn",
+      "uid" : "e1b2ff690e9bf42c",
+      "parentUid" : "db955b07e515c5eeb6ba94276d664f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548314112598,
+        "stop" : 1548314124221,
+        "duration" : 11623
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestSms.test_input_number_search[1]",
+      "uid" : "47c7ecd424a9a37b",
+      "parentUid" : "db955b07e515c5eeb6ba94276d664f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548314124223,
+        "stop" : 1548314133986,
+        "duration" : 9763
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestSms.test_input_number_search[2]",
+      "uid" : "c0aa3883f23c320",
+      "parentUid" : "db955b07e515c5eeb6ba94276d664f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548314133988,
+        "stop" : 1548314141353,
+        "duration" : 7365
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestSms.test_input_number_search[3]",
+      "uid" : "2a119725288766b6",
+      "parentUid" : "db955b07e515c5eeb6ba94276d664f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548314141358,
+        "stop" : 1548314151679,
+        "duration" : 10321
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestSms.test_click_back_butn",
+      "uid" : "72030697479c7d7e",
+      "parentUid" : "db955b07e515c5eeb6ba94276d664f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548314151682,
+        "stop" : 1548314152941,
+        "duration" : 1259
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.test_seting"
+  } ]
+}

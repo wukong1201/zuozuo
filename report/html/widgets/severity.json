@@ -1,0 +1,51 @@
+[ {
+  "uid" : "e1b2ff690e9bf42c",
+  "name" : "TestSms.test_click_search_btn",
+  "time" : {
+    "start" : 1548314112598,
+    "stop" : 1548314124221,
+    "duration" : 11623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a119725288766b6",
+  "name" : "TestSms.test_input_number_search[3]",
+  "time" : {
+    "start" : 1548314141358,
+    "stop" : 1548314151679,
+    "duration" : 10321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0aa3883f23c320",
+  "name" : "TestSms.test_input_number_search[2]",
+  "time" : {
+    "start" : 1548314133988,
+    "stop" : 1548314141353,
+    "duration" : 7365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72030697479c7d7e",
+  "name" : "TestSms.test_click_back_butn",
+  "time" : {
+    "start" : 1548314151682,
+    "stop" : 1548314152941,
+    "duration" : 1259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47c7ecd424a9a37b",
+  "name" : "TestSms.test_input_number_search[1]",
+  "time" : {
+    "start" : 1548314124223,
+    "stop" : 1548314133986,
+    "duration" : 9763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
